@@ -5,7 +5,7 @@
 #
 #=========================================================================================
 
-base_url = "https://symbolic-intelligence-org.github.io/symbolic-intelligence/"
+base_url = "https://symbolic-intelligence-org.github.io/"
 title = "Symbolic Intelligence"
 description = "xxxx xxxx xxxx"
 default_language = "en"
